@@ -1,5 +1,5 @@
 def hello():
-    return "Hello, CI/CD!"
+    return "Hello, CI/CD Pipeline!"
 
 if __name__ == "__main__":
     print(hello())
